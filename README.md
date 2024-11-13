@@ -1,2 +1,2 @@
 # java-projeto-contabancaria
-Repositório contendo um projeto em java (projeto da DIO).
+repositório contendo um projeto simples que simula uma conta bancária em java
